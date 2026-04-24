@@ -1,0 +1,6 @@
+store_id,region_id,store_name,totalsales_perstore,sales_district,sales_region,totalreturn_perstore,return_rate
+16,87,Store 16,23591,Spokane,North West,559,2.37
+15,18,Store 15,25011,Seattle,North West,547,2.19
+23,89,Store 23,11491,Yakima,North West,250,2.18
+17,84,Store 17,35257,Tacoma,North West,764,2.17
+11,22,Store 11,26079,Portland,North West,564,2.16

@@ -1,0 +1,25 @@
+store_id,region_id,store_name,totalsales_perstore,sales_district,sales_region,totalreturn_perstore
+1,28,Store 1,0,Acapulco,Mexico West,267
+2,78,Store 2,2237,Bellingham,North West,0
+3,76,Store 3,24576,Bremerton,North West,496
+4,27,Store 4,0,Camacho,Mexico Central,255
+5,4,Store 5,0,Guadalajara,Mexico West,0
+6,47,Store 6,21333,Los Angeles,South West,446
+7,3,Store 7,25663,Los Angeles,South West,528
+8,26,Store 8,0,Marida,Mexico South,480
+9,2,Store 9,0,Mexico City,Mexico Central,115
+10,24,Store 10,0,Orizaba,Mexico Central,256
+11,22,Store 11,26079,Portland,North West,564
+12,25,Store 12,0,Hidalgo,Mexico Central,460
+13,23,Store 13,41580,Salem,North West,736
+14,1,Store 14,2117,San Francisco,Central West,0
+15,18,Store 15,25011,Seattle,North West,547
+16,87,Store 16,23591,Spokane,North West,559
+17,84,Store 17,35257,Tacoma,North West,764
+18,25,Store 18,0,Hidalgo,Mexico Central,112
+19,5,Store 19,0,Vancouver,Canada West,420
+20,6,Store 20,0,Victoria,Canada West,121
+21,106,Store 21,0,Mexico City,Mexico Central,372
+22,88,Store 22,2203,Walla Walla,North West,0
+23,89,Store 23,11491,Yakima,North West,250
+24,7,Store 24,25635,San Diego,South West,541
